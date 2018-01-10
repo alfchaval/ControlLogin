@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ControlLogin"><attr format="string" name="login_text"/></declare-styleable>
+    <string name="app_name">ControlLogin</string>
+    <string name="hello">Hello World, Main!</string>
+</resources>
